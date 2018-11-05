@@ -11,7 +11,7 @@
 
   public void settings()
   {
-    fullScreen(P3D);
+    size(600,600,P3D);
   }
   public void setup()
   {
