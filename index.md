@@ -6,9 +6,9 @@
 * terrain
 
 <script src="processing.min.js"></script>
-<canvas data-processing-sources="Sphere.pde terrain.pde"
+<canvas data-processing-sources="terrain/Sphere.pde terrian/terrain.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
 <script src="processing.min.js"></script>
-<canvas data-processing-sources="Cube.pde ProjCube.pde"
+<canvas data-processing-sources="ProjCube/Cube.pde ProjCube/ProjCube.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
