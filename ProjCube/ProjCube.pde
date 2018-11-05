@@ -9,13 +9,10 @@
   int g = 0;
   int b = 0;
 
-  public void settings()
-  {
-    size(600,600,P3D);
-  }
   public void setup()
   {
     cube = new Cube(this);
+    size(600,600,P3D);
   }
 
   public void draw()
