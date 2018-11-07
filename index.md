@@ -11,6 +11,8 @@
 
 ### a work in progress. creating a terrain using perlin noise. currently working to transfer this into VR for android.
 
+<img src="demoTerrain.png">
+
 *coming soon*
 
 <script src="processing.min.js"></script>
