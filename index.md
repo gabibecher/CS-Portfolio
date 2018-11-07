@@ -11,6 +11,8 @@
 
 ### a work in progress. creating a terrain using perlin noise. currently working to transfer this into VR for android.
 
+*coming soon*
+
 <script src="processing.min.js"></script>
 <canvas data-processing-sources="terrain/Sphere.pde terrain/terrain.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
