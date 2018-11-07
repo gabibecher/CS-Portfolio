@@ -13,7 +13,7 @@
 
 <img src="demoTerrain.png">
 
-*coming soon*
+*animation coming soon*
 
 <script src="processing.min.js"></script>
 <canvas data-processing-sources="terrain/Sphere.pde terrain/terrain.pde"
