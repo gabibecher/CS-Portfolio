@@ -1,7 +1,6 @@
 # **Gabi Becher's Portfolio**
+
 ### Welcome to my portfolio. Displayed here are some projects I've been working on.
-
-
 
 ### an animation of cubes; controllable with left/right/up/down arrows.
 
@@ -10,11 +9,10 @@
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
 
-### a work in progress. creating a terrain using perlin noise. currently working to transfer this into VR for android.
+### A terrain created using perlin noise. Compatible in VR for Android.
 
 <img src="demoTerrain.png">
 
-*animation coming soon*
 <script src="processing.min.js"></script>
 <canvas data-processing-sources="terrain/Sphere.pde terrain/terrain.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
