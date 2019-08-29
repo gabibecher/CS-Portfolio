@@ -17,6 +17,10 @@
 <canvas data-processing-sources="terrain/Sphere.pde terrain/terrain.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
+### An interactive display using particles and depth data from a Kinect sensor
+
+<img src="Kinect.png">
+
 ### a website I helped design and develop.
 
 <https://www.anewtide.org/>
