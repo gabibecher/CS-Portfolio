@@ -1,11 +1,11 @@
 # **Gabi Becher's Portfolio**
 
-### Welcome to my portfolio. Displayed here are some projects I've been working on.
+## Welcome to my portfolio. Displayed here are some projects I've been working on.
 
 
 ### An interactive display using particles and depth data from a Kinect sensor
 
-<img src="Kinect.png">
+<!--<img src="Kinect.png">-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### A terrain created using perlin noise. Compatible in VR for Android.
