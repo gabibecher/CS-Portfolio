@@ -22,7 +22,6 @@
 <!--<canvas data-processing-sources="ProjCube/Cube.pde ProjCube/ProjCube.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>-->
 
-
 ### a website I helped design and develop.
 
 <https://www.anewtide.org/>
