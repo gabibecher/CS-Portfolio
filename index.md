@@ -7,7 +7,7 @@
 <!--<img src="Kinect.png">-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### A terrain created using perlin noise. Compatible in VR for Android.
+### A terrain created using Perlin noise. Compatible in Virtual Reality for Android.
 
 <img src="demoTerrain.png">
 
@@ -15,11 +15,12 @@
 <!--<canvas data-processing-sources="terrain/Sphere.pde terrain/terrain.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>-->
 
-### an animation of cubes; controllable with left/right/up/down arrows.
+### An animation of cubes; controllable with left/right/up/down arrows
 
 <script src="processing.min.js"></script>
 <canvas data-processing-sources="ProjCube/Cube.pde ProjCube/ProjCube.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
-### a website I helped design and develop.
+### A website I helped design and develop to engage youth in California's 25th district in the midterm elections:
+
 <https://www.anewtide.org/>
