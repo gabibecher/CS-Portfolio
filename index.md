@@ -21,6 +21,9 @@
 <canvas data-processing-sources="ProjCube/Cube.pde ProjCube/ProjCube.pde"
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
-### A website I helped design and develop to engage youth in California's 25th district in the midterm elections:
+### A website I helped design and develop to engage youth voters in California's 25th district prior to the midterm elections. Through navigating to Voting//Sample Ballot,
 
-<https://www.anewtide.org/>
+<blockquote class="embedly-card"><h4><a href="https://www.anewtide.org/">A New Tide</a></h4><p>© 2018 by A New Tide. All Rights Reserved. Privacy Policy.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<!--<https://www.anewtide.org/>-->
