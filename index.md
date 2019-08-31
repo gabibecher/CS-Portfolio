@@ -6,10 +6,7 @@
 ### An interactive display using particles and depth data from a Kinect sensor
 
 <!--<img src="Kinect.png">-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreenstyle; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;></iframe>
-
-<img src="Kinect.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 <br>
 ### A terrain created in 3D using Perlin noise. Compatible in Virtual Reality for Android.
