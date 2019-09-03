@@ -31,5 +31,4 @@
 
 ### A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles
 
-<blockquote class="embedly-card"><h4><a href="https://kyrakraft.github.io/cprtrainingapp/">Marlborough CPR Training App</a></h4><p>null</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<iframe src="url of required page">https://kyrakraft.github.io/cprtrainingapp/</iframe>
