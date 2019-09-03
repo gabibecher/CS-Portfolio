@@ -5,7 +5,7 @@ mark {
   color: black;
 }
 
-## <mark><span>Welcome to my portfolio. Displayed here are a few projects I've been working on recently.</span></mark>
+## <span>Welcome to my portfolio. Displayed here are a few projects I've been working on.</span>
 
 <br>
 ### An interactive display using particles and depth data from a Kinect sensor
