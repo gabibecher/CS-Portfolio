@@ -1,11 +1,11 @@
 # **Gabi Becher's Portfolio**
 
 mark {
-  background: #D9B9F6;
+  background-color: D9B9F6;
   color: black;
 }
 
-## <mark>Welcome to my portfolio. Displayed here are a few projects I've been working on recently.</mark>
+## <mark><span>Welcome to my portfolio. Displayed here are a few projects I've been working on recently.</span></mark>
 
 <br>
 ### An interactive display using particles and depth data from a Kinect sensor
