@@ -27,9 +27,8 @@
 <br>
 ### <span style="background-color:#D9B9F6">A website I helped design and develop to engage youth voters in California's 25th Congressional district prior to the midterm elections (coded in HTML)</span>
 
-<a href="../https://www.anewtide.org/"><img src="NewTide" style="width:82px; height:86px"</a>
+<a href="../https://www.anewtide.org/"><img src="NewTide.png" style="width:82px; height:86px"</a>
 
 ### <span style="background-color:#D9B9F6">A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles (coded in Processing)</span>
 
-<blockquote class="embedly-card"><h4><a href="https://kyrakraft.github.io/cprtrainingapp/">Marlborough CPR Training App</a></h4><p>null</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<a href="../https://kyrakraft.github.io/cprtrainingapp/"><img src="CPRApp.png" style="width:82px; height:86px"</a>
