@@ -25,6 +25,11 @@
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
 <br>
-### A website I helped design and develop to engage youth voters in California's 25th district prior to the midterm elections
+### A website I helped design and develop to engage youth voters in California's 25th Congressional district prior to the midterm elections
 
 <blockquote class="embedly-card"><h4><a href="https://www.anewtide.org/">A New Tide</a></h4><p>© 2018 by A New Tide. All Rights Reserved. Privacy Policy.</p></blockquote>
+
+### A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles
+
+<blockquote class="embedly-card"><h4><a href="https://kyrakraft.github.io/cprtrainingapp/">Marlborough CPR Training App</a></h4><p>null</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
