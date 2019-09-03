@@ -27,7 +27,7 @@
 <br>
 ### <span style="background-color:#D9B9F6">A website I helped design and develop to engage youth voters in California's 25th Congressional district prior to the midterm elections (coded in HTML)</span>
 
-<blockquote class="embedly-card"><h4><a href="https://www.anewtide.org/">A New Tide</a></h4><p>© 2018 by A New Tide. All Rights Reserved. Privacy Policy.</p></blockquote>
+<a href="../https://www.anewtide.org/"><img src="NewTide" style="width:82px; height:86px"</a>
 
 ### <span style="background-color:#D9B9F6">A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles (coded in Processing)</span>
 
