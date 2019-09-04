@@ -33,4 +33,7 @@
 
 <a href="https://kyrakraft.github.io/cprtrainingapp/"><img src="CPRApp.png" style="width:82px; height:86px"></a>
 
+<img src="CPRApp">
+
+
 <a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr">An article in my school's publication about my Honors Computer Science Project class</a>
