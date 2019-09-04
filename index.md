@@ -32,3 +32,5 @@
 ### <span style="background-color:#D9B9F6">A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles (coded in Processing)</span>
 
 <a href="https://kyrakraft.github.io/cprtrainingapp/"><img src="CPRApp.png" style="width:82px; height:86px"></a>
+
+<a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr">An article in my school's publication about my Honors Computer Science Project class</a>
