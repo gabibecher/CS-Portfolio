@@ -18,7 +18,7 @@
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>-->
 
 <br>
-### <span style="background-color:#D9B9F6">An animation of cubes; controllable with left/right/up/down arrows (coded in Processing)</span>
+### <span style="background-color:#D9B9F6">An animation of cubes; quantity of cubes controllable with up/down arrow keys; speed of cubes controllable with left/right arrow keys (coded in Processing)</span>
 
 <script src="processing.min.js"></script>
 <canvas data-processing-sources="ProjCube/Cube.pde ProjCube/ProjCube.pde"
@@ -32,7 +32,5 @@
 ### <span style="background-color:#D9B9F6">A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles (coded in Processing)</span>
 
 <a href="https://kyrakraft.github.io/cprtrainingapp/" target="_blank"><img src="download.jpg" style="width:82px; height:86px"></a>
-
-<img src="download.jpg">
 
 <span style="background-color:#D9B9F6"><a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr" target="_blank" >Linked here is an article in my school's publication about my Honors Computer Science Project class that I am quoted in</a></span>
