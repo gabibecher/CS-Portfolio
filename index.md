@@ -2,6 +2,10 @@
 
 ## <span>Welcome to my portfolio. Displayed here are a few projects I've been working on.</span>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="gabriela-becher-44b62a148"><a class="LI-simple-link" href='https://www.linkedin.com/in/gabriela-becher-44b62a148?trk=profile-badge'>Gabriela Becher</a></div>
+
 <br>
 ### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java)</span>
 
