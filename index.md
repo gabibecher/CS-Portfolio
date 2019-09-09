@@ -25,9 +25,11 @@
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
 <br>
-### <span style="background-color:#D9B9F6">A website I helped design and develop to engage youth voters in California's 25th Congressional district prior to the midterm elections (coded in HTML)</span>
+### <span style="background-color:#D9B9F6">A website I helped design and develop to engage youth voters in California's 25th Congressional district prior to the 2018 midterm elections (coded in HTML)</span>
 
 <a href="https://www.anewtide.org/" target="_blank"><img src="download.jpg" style="width:82px; height:86px"></a>
+
+<img src="download.jpg">
 
 ### <span style="background-color:#D9B9F6">A CPR training app I helped develop with my Computer Science Class in partnership with The Children's Hospital Los Angeles (coded in Processing)</span>
 
