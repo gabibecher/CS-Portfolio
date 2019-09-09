@@ -37,4 +37,4 @@
 
 <span style="background-color:#D9B9F6"><a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr" target="_blank" >Linked here is an article in my school's publication about my Honors Computer Science Projects class that I am quoted in</a></span>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="gabriela-becher-44b62a148"><a class="LI-simple-link" href='https://www.linkedin.com/in/gabriela-becher-44b62a148?trk=profile-badge'>Gabriela Becher</a></div>
+<!––<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="gabriela-becher-44b62a148"><a class="LI-simple-link" href='https://www.linkedin.com/in/gabriela-becher-44b62a148?trk=profile-badge'>Gabriela Becher</a></div>-->
