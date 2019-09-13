@@ -5,7 +5,6 @@
 <br>
 ### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java)</span>
 
-<!--<img src="Kinect.png">-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
