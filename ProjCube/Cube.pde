@@ -6,7 +6,8 @@ public class Cube
     vx = 7; //set to values
     vy = 7;
     vz = 50;
-    c1 = color(random(255),random(255),random(255));
+    //c1 = color(random(255),random(255),random(255));
+    c1 = #58BCC6;
     //color = colorIn;
   }
 
