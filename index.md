@@ -1,6 +1,6 @@
 # **Gabi Becher's Computer Science Portfolio**
 
-## <span>Welcome to my portfolio. Displayed here are a few projects I've been working on.</span>
+## <span>Welcome to my portfolio! Displayed here are my favorite projects I've worked on.</span>
 
 <br>
 ### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java)</span>
