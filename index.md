@@ -24,7 +24,7 @@
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
 <br>
-### <span style="background-color:#D9B9F6">A website I collaborated on to engage youth voters in California's 25th Congressional district prior to the 2018 midterm elections (coded in HTMLl; click image to view site)</span>
+### <span style="background-color:#D9B9F6">A website I collaborated on to engage youth voters in California's 25th Congressional district prior to the 2018 midterm elections (coded in HTML; click image to view site)</span>
 
 <a href="https://www.anewtide.org/" target="_blank"><img src="NewTide.png" style="width:65%; height:65%"></a>
 
