@@ -1,6 +1,6 @@
 # **Gabi Becher's Computer Science Portfolio**
 
-## <span>Welcome to my portfolio. Displayed here are a few projects I've been working on.</span>
+## <span>Welcome to my portfolio! Displayed here are my favorite projects I've worked on.</span>
 
 <br>
 ### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java)</span>
@@ -24,7 +24,7 @@
     style="display:block; margin-left:auto; margin-right:auto;"></canvas>
 
 <br>
-### <span style="background-color:#D9B9F6">A website I collaborated on to engage youth voters in California's 25th Congressional district prior to the 2018 midterm elections (coded in HTMLl; click image to view site)</span>
+### <span style="background-color:#D9B9F6">A website I collaborated on to engage youth voters in California's 25th Congressional district prior to the 2018 midterm elections (coded in HTML; click image to view site)</span>
 
 <a href="https://www.anewtide.org/" target="_blank"><img src="NewTide.png" style="width:65%; height:65%"></a>
 
@@ -32,4 +32,4 @@
 
 <a href="https://kyrakraft.github.io/cprtrainingapp/" target="_blank"><img src="CPRScreenshot.png" style="width:40%; height:40%"></a>
 
-<span style="background-color:#D9B9F6"><a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr" target="_blank" >Linked here is an article in my school's publication about my Honors Computer Science Projects class that I am quoted in</a></span>
+<span style="background-color:#D9B9F6"><a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr" target="_blank" >Linked here is an article in my school's publication that I am quoted in about my Honors Computer Science Projects class</a></span>
