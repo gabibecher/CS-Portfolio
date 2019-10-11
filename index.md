@@ -2,7 +2,7 @@
 
 ## <span>Welcome to my portfolio! Displayed here are my favorite projects I've worked on.</span>
 
-### <span style="background-color:#D9B9F6">Currently working on: *projections for my school's dance concert </span>
+### <span style="background-color:#D9B9F6">Currently working on: <br> * projections for my school's dance concert </span>
 
 <br>
 ### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java)</span>
