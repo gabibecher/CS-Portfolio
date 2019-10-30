@@ -6,7 +6,7 @@
 ### <span> *Interactive projections for my school's dance concert <br> *My Honors Research in Science project. Using Python to examine the North Carolina voter file in conjunction with Census data to precisely pinpoint the demographics of the unregistered yet voting-eligible population, where these unregistered people live, and how that data correlates to barriers to voting and registration across the state  </span>
 
 <br>
-### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java)</span>
+### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java). First variation uses the Lerp Color function to interpolate between colors depending on the depth. </span>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
