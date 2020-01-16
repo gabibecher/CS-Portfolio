@@ -3,7 +3,7 @@
 ## <span>Welcome to my portfolio! Displayed here are my favorite projects I've worked on.</span>
 
 ### <span style="background-color:#D9B9F6">Currently working on: </span> 
-### <span> *My Honors Research in Science project. Using Python to examine the North Carolina voter file in conjunction with Census data to precisely pinpoint the demographics of the unregistered yet voting-eligible population, where these unregistered people live, and how that data relates to barriers to voting and registration across the state  </span>
+### <span> My Honors Research in Science project. Using Python to examine the North Carolina voter file in conjunction with Census data to precisely pinpoint the demographics of the unregistered yet voting-eligible population, where these unregistered people live, and how that data relates to barriers to voting and registration across the state  </span>
 
 <br>
 ### <span style="background-color:#D9B9F6">Interactive projections created for my school's dance concert using depth data from a Kinect sensor in real-time. My projections are first in the embedded video. (coded in Processing in Java) </span>
