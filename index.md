@@ -44,4 +44,6 @@
 
 <a href="https://kyrakraft.github.io/cprtrainingapp/" target="_blank"><img src="CPRScreenshot.png" style="width:40%; height:40%"></a>
 
-<span style="background-color:#D9B9F6"><a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr" target="_blank" >Linked here is an article in my school's publication that I am quoted in about my Honors Computer Science Projects class</a></span>
+<span style="background-color:#D9B9F6"><a href="https://www.marlborough.org/news/~board/stem/post/from-vr-to-cpr" target="_blank" >Linked here is an article in my school's newspaper that I am quoted in about my Honors Computer Science Projects class</a></span>
+
+<span style="background-color:#D9B9F6"><a href="http://new.theultraviolet.com/wordpress/2019/12/programming-to-inform-politics/" target="_blank" >Linked here is an article in my school's newspaper that I am quoted in about civic eduation</a></span>
