@@ -3,17 +3,17 @@
 ## <span>Welcome to my portfolio! Displayed here are my favorite projects I've worked on.</span>
 
 ### <span style="background-color:#D9B9F6">Currently working on: </span> 
-### <span> My Honors Research in Science project. Using Python to examine the North Carolina voter file in conjunction with Census data to precisely pinpoint the demographics of the unregistered yet voting-eligible population, where these unregistered people live, and how that data relates to barriers to voting and registration across the state  </span>
+### <span> My Honors Research in Science project. Using Python to examine the North Carolina voter file in conjunction with Census data to precisely pinpoint the demographics of the unregistered yet voting-eligible population, where these unregistered people live, and how that data relates to barriers to voting and registration across the state.  </span>
 
 <br>
-### <span style="background-color:#D9B9F6">Interactive projections created for my school's dance concert using depth data from a Kinect sensor in real-time. My projections are first in the embedded video. (coded in Processing in Java) </span>
+### <span style="background-color:#D9B9F6">Interactive projections created for my school's dance concert using depth data from a Kinect sensor in real-time. My projections are first in the embedded video. (coded in Processing) </span>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBXnVbHJ61U?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JTVFNBmRcZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor (coded in Processing in Java). First variation uses the Lerp Color function to interpolate between colors depending on the depth. </span>
+### <span style="background-color:#D9B9F6">An interactive display using particles and depth data from a Kinect sensor. First variation uses the Lerp Color function to interpolate between colors depending on the depth. (coded in Processing) </span>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jt3yuVapsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
