@@ -1,6 +1,6 @@
-# **Gabi Becher's Computer Science Portfolio**
+# **Gabi Becher**
 
-## <span>Welcome to my portfolio! Displayed here are my favorite projects I've worked on.</span>
+## <span>Hi! I'm Gabi. I'm passionate about the intersection of CS/data and progressive, grassroots organizing and causes. I spent 2020 as a Deputy Data Director on the Montana Democratic coordinated campaign. Below are some projects I've worked on, through high school and beyond.</span>
 
 ### <span style="background-color:#D9B9F6">Currently working on: </span> 
 ### <span> My Honors Research in Science project. Using Python to examine the North Carolina voter file in conjunction with Census data to precisely pinpoint the demographics of the unregistered yet voting-eligible population, where these unregistered people live, and how that data relates to barriers to voting and registration across the state.  </span>
